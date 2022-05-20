@@ -1,1 +1,2 @@
 this is devops class
+Git is a version control tool
